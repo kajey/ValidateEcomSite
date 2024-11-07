@@ -1,0 +1,2 @@
+# ValidateEcomSite
+ a Sample framework
